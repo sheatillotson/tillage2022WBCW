@@ -1,0 +1,405 @@
+﻿Date,EggMass_number,Final_Visit,Visit_num,Plot,Row_num,Location_Plot,Location_Field,Edge,Middle,Leaf_num,Egg_num,Eaten,Nonviable,Hatch,Parasitism ,WBCW ,stink bug bug,ECB,Pest,Entry ,Block,Plot,System,SpringCover,CashCrop,FallCover, Treatment,SoilDisturbance_num,AboveGroundDisturbance_num,SamplingEvent,NumPlantsPer35FT,Plants/Acre,Plants/Hectare,Plants/Plot,Masses/Plot,Eggs/Plant,Perc_Affected_Plants,Eggs/Plot,Eaten/Plot,Proportion_Eaten_Eggs
+7/14/2022,3,0,1,121,3,middle,0,1,0,9,55,0,1,0,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,5,0,1,121,3,top,0,1,0,9,132,35,1,0,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,6,0,1,121,3,top,0,1,0,9,127,0,0,0,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,7,0,1,121,4,top,0,0,1,7,14,0,0,0,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/26/2022,7,0,2,121,4,top,0,0,1,7,14,0,0,0,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,8,0,1,121,5,top,0,0,1,9,114,11,0,0,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,9,0,1,121,5,top,0,0,1,8,68,0,0,0,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,10,0,1,121,5,middle,0,0,1,7,98,0,0,0,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,11,0,1,121,5,bottom,0,0,1,9,147,0,0,0,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,12,0,1,121,6,bottom,0,0,1,9,49,0,0,0,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,13,0,1,121,9,top,0,0,1,8,38,0,0,0,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,14,0,1,121,9,top,0,0,1,10,56,1,1,0,2,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,15,0,1,121,9,middle,0,0,1,8,55,0,0,0,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,16,0,1,121,9,middle,0,0,1,9,86,3,0,0,1,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,19,0,1,122,3,top,0,1,0,11,52,0,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,20,0,1,122,3,top,0,1,0,9,38,0,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,21,0,1,122,4,top,0,0,1,9,49,0,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,24,0,1,122,3,middle,0,1,0,11,32,19,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,25,0,1,122,3,middle,0,1,0,12,63,0,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,26,0,1,122,3,bottom,0,1,0,8,85,23,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/26/2022,26,0,2,122,3,bottom,0,1,0,8,85,23,2,60,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,27,0,1,122,3,bottom,0,1,0,9,32,0,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,29,0,1,122,8,top,0,0,1,9,44,0,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,31,0,1,122,8,middle,0,0,1,7,53,53,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,33,0,1,122,7,bottom,0,0,1,9,52,0,2,49,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,35,0,1,122,10,middle,0,1,0,10,61,0,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,37,0,1,122,11,top,0,1,0,9,46,2,0,0,1,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,38,0,1,122,11,top,0,1,0,10,31,0,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,39,0,1,122,11,top,0,1,0,8,48,48,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,40,0,1,122,11,middle,0,1,0,8,85,26,0,0,1,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,41,0,1,122,12,bottom,0,1,0,9,26,0,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,42,0,1,122,11,bottom,0,1,0,11,64,0,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,,,,,,
+7/14/2022,44,0,1,124,12,bottom,0,1,0,9,391,32,0,0,2,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,,,,,,
+7/26/2022,44,0,2,124,12,bottom,0,1,0,9,391,32,0,357,2,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,46,0,1,124,9,middle,0,0,1,10,63,3,0,0,0,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,47,0,1,124,9,middle,0,0,1,10,44,18,0,0,0,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,49,0,1,124,7,bottom,0,0,1,9,65,0,1,0,0,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,52,0,1,124,6,bottom,0,0,1,10,34,0,0,0,0,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,,,,,,
+7/14/2022,56,0,1,124,2,bottom,0,1,0,10,70,0,0,0,1,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,,,,,,
+7/15/2022,58,0,1,322,2,middle,0,1,0,10,45,0,0,0,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/15/2022,59,0,1,322,3,middle,0,1,0,10,63,0,2,0,1,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/15/2022,61,0,1,322,3,top,0,1,0,12,63,0,0,0,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/15/2022,62,0,1,322,5,bottom,0,0,1,9,69,26,3,0,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/15/2022,63,0,1,322,5,middle,0,0,1,9,63,0,0,0,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/15/2022,64,0,1,322,5,middle,0,0,1,9,51,0,0,0,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/15/2022,67,0,1,322,7,top,0,0,1,10,49,0,0,0,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/15/2022,68,0,1,322,7,top,0,0,1,10,50,0,0,0,,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/15/2022,69,0,1,322,8,middle,0,0,1,10,14,0,0,0,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/15/2022,71,0,1,322,12,top,0,1,0,8,56,41,0,0,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/15/2022,72,0,1,322,12,middle,0,1,0,9,32,0,0,0,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/15/2022,73,0,1,322,12,middle,0,1,0,9,29,2,1,0,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/15/2022,75,0,1,322,12,bottom,0,1,0,11,96,0,0,0,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/26/2022,75,0,2,322,12,bottom,0,1,0,11,96,6,0,90,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/15/2022,76,0,1,324,1,middle,0,1,0,10,25,0,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,77,0,1,324,1,middle,0,1,0,10,39,0,1,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,78,0,1,324,1,middle,0,1,0,9,68,0,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,80,0,1,324,2,middle,0,1,0,8,73,0,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,82,0,1,324,2,bottom,0,1,0,10,50,43,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/26/2022,82,0,2,324,2,bottom,0,1,0,10,50,45,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,83,0,1,324,2,bottom,0,1,0,9,100,0,0,0,4,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,84,0,1,324,3,bottom,0,1,0,10,105,0,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,85,0,1,324,3,bottom,0,1,0,8,85,0,0,58,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/26/2022,85,0,2,324,3,bottom,0,1,0,8,85,0,0,85,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,86,0,1,324,3,bottom,0,1,0,11,72,0,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,88,0,1,324,4,bottom,0,0,1,7,139,0,0,110,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,89,0,1,324,5,bottom,0,0,1,8,77,1,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,91,0,1,324,6,middle,0,0,1,9,65,2,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,93,0,1,324,6,bottom,0,0,1,7,92,18,0,0,1,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,94,0,1,324,11,middle,0,1,0,10,98,0,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,95,0,1,324,11,middle,0,1,0,11,69,0,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,96,0,1,324,12,middle,0,1,0,9,81,44,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/15/2022,99,0,1,323,3,top,0,1,0,10,35,0,0,0,0,1,0,0,WBCW,2,3,323,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/15/2022,100,0,1,323,7,top,0,0,1,10,70,1,0,0,0,1,0,0,WBCW,2,3,323,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/26/2022,100,0,2,323,7,top,0,0,1,10,70,15,0,55,0,1,0,0,WBCW,2,3,323,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/15/2022,106,0,1,323,11,middle,0,1,0,9,26,0,0,0,0,1,0,0,WBCW,2,3,323,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/19/2022,110,0,1,431,1,bottom,0,1,0,9,56,6,0,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,112,0,1,431,1,bottom,0,1,0,9,38,1,0,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/26/2022,112,0,2,431,1,bottom,0,1,0,9,38,38,0,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,114,0,1,431,3,bottom,0,1,0,9,18,0,0,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,116,0,1,431,3,middle,0,1,0,12,111,0,0,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,118,0,1,431,6,middle,0,0,1,10,118,0,0,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,120,0,1,431,6,middle,0,0,1,12,31,0,0,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,122,0,1,431,8,middle,0,0,1,10,26,0,0,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,123,0,1,431,9,top,0,0,1,11,33,2,0,0,5,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,124,0,1,431,10,top,0,1,0,12,92,0,0,0,2,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,125,0,1,431,10,top,0,1,0,12,44,1,0,0,3,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,127,0,1,431,10,middle,0,1,0,8,12,8,0,1,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,128,0,1,431,10,middle,0,1,0,10,35,0,0,0,2,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,129,0,1,431,11,bottom,0,1,0,8,37,0,0,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,130,0,1,431,11,bottom,0,1,0,10,39,0,0,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,135,0,1,431,12,top,0,1,0,11,146,0,6,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,137,0,1,431,11,top,0,1,0,10,49,0,0,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,,,,,,
+7/19/2022,138,0,1,433,1,middle,0,1,0,8,24,0,0,24,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,139,0,1,433,2,middle,0,1,0,9,58,0,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,141,0,1,433,2,middle,0,1,0,8,30,0,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,143,0,1,433,2,middle,0,1,0,9,31,0,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,144,0,1,433,2,bottom,0,1,0,10,83,0,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,146,0,1,433,1,bottom,0,1,0,10,35,4,0,0,1,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,147,0,1,433,3,bottom,0,1,0,10,31,0,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,148,0,1,433,4,middle,0,0,1,9,20,0,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/26/2022,148,0,2,433,4,middle,0,0,1,9,20,0,0,20,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,149,0,1,433,4,middle,0,0,1,9,43,0,0,0,1,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/26/2022,149,0,2,433,4,middle,0,0,1,9,43,8,0,34,1,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,150,0,1,433,3,top,0,1,0,10,78,2,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,151,0,1,433,3,top,0,1,0,8,101,20,0,81,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/26/2022,151,0,2,433,3,top,0,1,0,8,101,20,0,81,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,154,0,1,433,5,top,0,0,1,7,41,0,0,41,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,155,0,1,433,5,top,0,0,1,5,55,0,0,48,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,157,0,1,433,6,middle,0,0,1,8,53,0,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,158,0,1,433,5,middle,0,0,1,8,134,0,1,37,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,163,0,1,433,7,top,0,0,1,11,42,0,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,164,0,1,433,9,top,0,0,1,7,120,0,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,165,0,1,433,10,top,0,1,0,9,83,1,2,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,166,0,1,433,9,top,0,0,1,11,44,11,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/26/2022,166,0,2,433,9,top,0,0,1,11,44,11,0,33,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,169,0,1,433,9,middle,0,0,1,9,52,2,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/27/2022,169,0,2,433,9,middle,0,0,1,9,52,8,0,46,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,172,0,1,433,10,middle,0,1,0,8,49,0,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,175,0,1,433,12,top,0,1,0,10,76,0,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/27/2022,175,0,2,433,12,top,0,1,0,10,76,20,0,50,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,177,0,1,432,2,middle,0,1,0,11,70,3,0,0,0,1,0,0,WBCW,2,4,432,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,178,0,1,432,2,middle,0,1,0,10,43,2,0,0,0,1,0,0,WBCW,2,4,432,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,179,0,1,432,2,top,0,1,0,10,56,0,0,0,0,1,0,0,WBCW,2,4,432,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,66,66000,163089.4076,8579.986953,,,,,,
+7/27/2022,179,0,2,432,2,top,0,1,0,10,56,26,0,30,0,1,0,0,WBCW,2,4,432,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,182,0,1,432,3,top,0,1,0,11,42,0,0,0,0,1,0,0,WBCW,2,4,432,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,183,0,1,432,3,middle,0,1,0,9,52,1,0,0,0,1,0,0,WBCW,2,4,432,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,184,0,1,432,5,middle,0,0,1,9,86,0,2,0,0,1,0,0,WBCW,2,4,432,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,66,66000,163089.4076,8579.986953,,,,,,
+7/19/2022,191,0,1,432,11,bottom,0,1,0,7,52,3,1,0,1,1,0,0,WBCW,2,4,432,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,66,66000,163089.4076,8579.986953,,,,,,
+7/20/2022,192,0,1,221,1,middle,0,1,0,11,80,2,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,194,0,1,221,1,middle,0,1,0,7,51,0,0,0,1,0,1,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,197,0,1,221,1,bottom,0,1,0,11,51,0,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,198,0,1,221,1,bottom,0,1,0,10,113,0,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,199,0,1,221,2,bottom,0,1,0,8,109,0,0,0,1,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,201,0,1,221,4,bottom,0,0,1,11,96,0,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/27/2022,201,0,2,221,4,bottom,0,0,1,11,96,0,0,87,9,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,202,0,1,221,4,middle,0,0,1,12,52,0,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,205,0,1,221,5,top,0,0,1,9,27,27,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,206,0,1,221,5,middle,0,0,1,12,38,0,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,208,0,1,221,5,middle,0,0,1,7,94,,,,,,,,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,210,0,1,221,5,bottom,0,0,1,11,5,0,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/27/2022,210,0,2,221,5,bottom,0,0,1,11,5,0,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,211,0,1,221,5,bottom,0,0,1,9,44,7,0,0,3,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,212,0,1,221,5,bottom,0,0,1,9,38,0,1,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,213,0,1,221,5,bottom,0,0,1,9,65,0,0,0,1,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,215,0,1,221,9,top,0,0,1,10,113,0,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,216,0,1,221,9,middle,0,0,1,9,67,1,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,217,0,1,221,9,middle,0,0,1,9,101,0,0,0,1,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,218,0,1,221,9,middle,0,0,1,10,46,0,1,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,219,0,1,221,11,bottom,0,1,0,11,84,0,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,,,,,,
+7/20/2022,221,0,1,222,12,middle,0,1,0,11,19,1,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,224,0,1,222,1,top,0,1,0,11,55,2,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,226,0,1,222,2,bottom,0,1,0,10,38,2,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/27/2022,226,0,2,222,2,bottom,0,1,0,10,38,28,0,8,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,227,0,1,222,3,middle,0,1,0,9,50,0,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,228,0,1,222,3,top,0,1,0,9,90,19,0,26,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/27/2022,228,0,2,222,3,top,0,1,0,9,90,19,0,71,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,229,0,1,222,4,middle,0,0,1,10,61,0,1,0,1,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,232,0,1,222,5,bottom,0,0,1,10,28,1,2,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,233,0,1,222,5,bottom,0,0,1,12,33,1,2,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,234,0,1,222,5,bottom,0,0,1,9,110,0,0,0,6,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,235,0,1,222,5,bottom,0,0,1,9,111,37,0,74,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,239,0,1,222,6,middle,0,0,1,9,37,0,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,240,0,1,222,6,middle,0,0,1,9,97,0,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,241,0,1,222,6,middle,0,0,1,11,66,0,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/27/2022,241,0,2,222,6,middle,0,0,1,11,66,0,0,65,1,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,242,0,1,222,6,middle,0,0,1,11,15,0,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,243,0,1,222,7,bottom,0,0,1,9,52,0,0,0,2,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/27/2022,243,0,2,222,7,bottom,0,0,1,9,52,24,0,28,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,245,0,1,222,7,bottom,0,0,1,9,28,0,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,246,0,1,222,7,bottom,0,0,1,12,35,0,1,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/27/2022,246,0,2,222,7,bottom,0,0,1,12,35,0,1,18,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,247,0,1,222,7,middle,0,0,1,10,88,0,3,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,248,0,1,222,7,middle,0,0,1,11,47,0,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/27/2022,248,0,2,222,7,middle,0,0,1,11,47,30,0,17,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,251,0,1,222,8,middle,0,0,1,10,31,0,2,15,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/27/2022,251,0,2,222,8,middle,0,0,1,10,31,0,2,27,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,252,0,1,222,8,middle,0,0,1,8,53,53,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,253,0,1,222,8,bottom,0,0,1,8,11,8,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,254,0,1,222,8,bottom,0,0,1,8,57,19,0,38,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/27/2022,254,0,2,222,8,bottom,0,0,1,8,57,19,0,38,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,259,0,1,222,10,bottom,0,1,0,12,35,16,1,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,261,0,1,222,10,bottom,0,1,0,10,49,0,2,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,262,0,1,222,10,bottom,0,1,0,10,54,0,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,263,0,1,222,11,middle,0,1,0,11,121,0,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,264,0,1,222,11,top,0,1,0,8,32,0,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/20/2022,269,0,1,224,2,top,0,1,0,11,59,0,0,0,0,1,0,0,WBCW,2,2,224,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,67,67000,165560.4592,8709.986755,,,,,,
+7/20/2022,270,0,1,224,2,top,0,1,0,10,46,0,0,0,0,1,0,0,WBCW,2,2,224,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,67,67000,165560.4592,8709.986755,,,,,,
+7/20/2022,272,0,1,224,3,middle,0,1,0,9,104,8,0,37,0,1,0,0,WBCW,2,2,224,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,67,67000,165560.4592,8709.986755,,,,,,
+7/27/2022,272,0,2,224,3,middle,0,1,0,9,104,0,0,98,0,1,0,0,WBCW,2,2,224,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,67,67000,165560.4592,8709.986755,,,,,,
+7/27/2022,281,0,2,124,12,bottom,0,1,0,12,50,0,0,0,0,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,,,,,,
+7/27/2022,282,0,2,322,12,bottom,0,1,0,8,37,0,0,37,0,0,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/27/2022,284,0,2,324,3,bottom,0,1,0,23,51,4,0,47,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,,,,,,
+7/27/2022,285,0,2,323,6,top,0,0,1,9,51,0,2,46,3,1,0,0,WBCW,2,3,323,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,,,,,,
+7/27/2022,292,0,2,222,5,bottom,0,0,1,12,90,0,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,,,,,,
+7/26/2022,3,1,2,121,3,middle,0,1,0,9,55,0,1,54,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,14,0.001583713,0.158371282,1093,284,0.259835316
+7/14/2022,4,1,1,121,3,middle,0,1,0,9,54,35,0,0,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,14,0.001583713,0.158371282,1093,284,0.259835316
+7/26/2022,5,1,2,121,3,top,0,1,0,9,132,131,1,0,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,14,0.001583713,0.158371282,1093,284,0.259835316
+7/26/2022,6,1,2,121,3,top,0,1,0,9,127,0,0,127,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,14,0.001583713,0.158371282,1093,284,0.259835316
+8/3/2022,7,1,3,121,4,top,0,0,1,7,14,0,0,14,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,14,0.001583713,0.158371282,1093,284,0.259835316
+7/26/2022,8,1,2,121,5,top,0,0,1,9,114,11,0,103,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,14,0.001583713,0.158371282,1093,284,0.259835316
+7/26/2022,9,1,2,121,5,top,0,0,1,8,68,68,0,0,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,14,0.001583713,0.158371282,1093,284,0.259835316
+7/26/2022,10,1,2,121,5,middle,0,0,1,7,98,24,0,74,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,14,0.001583713,0.158371282,1093,284,0.259835316
+7/26/2022,11,1,2,121,5,bottom,0,0,1,9,147,0,0,147,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,14,0.001583713,0.158371282,1093,284,0.259835316
+7/26/2022,12,1,2,121,6,bottom,0,0,1,9,49,0,0,49,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,14,0.001583713,0.158371282,1093,284,0.259835316
+7/26/2022,13,1,2,121,9,top,0,0,1,8,38,5,8,13,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,14,0.001583713,0.158371282,1093,284,0.259835316
+7/26/2022,14,1,2,121,9,top,0,0,1,10,56,7,1,46,2,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,14,0.001583713,0.158371282,1093,284,0.259835316
+7/26/2022,15,1,2,121,9,middle,0,0,1,8,55,0,0,55,0,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,14,0.001583713,0.158371282,1093,284,0.259835316
+7/26/2022,16,1,2,121,9,middle,0,0,1,9,86,3,2,80,1,1,0,0,WBCW,2,1,121,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,14,0.001583713,0.158371282,1093,284,0.259835316
+7/26/2022,19,1,2,122,3,top,0,1,0,11,52,0,2,50,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/26/2022,20,1,2,122,3,top,0,1,0,9,38,0,0,38,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/26/2022,21,1,2,122,4,top,0,0,1,9,49,11,0,38,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/14/2022,22,1,1,122,3,middle,0,1,0,10,82,0,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/26/2022,24,1,2,122,3,middle,0,1,0,11,32,19,0,23,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/26/2022,25,1,2,122,3,middle,0,1,0,12,63,12,0,51,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+8/3/2022,26,1,3,122,3,bottom,0,1,0,8,85,23,2,60,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/26/2022,27,1,2,122,3,bottom,0,1,0,9,32,0,0,32,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/26/2022,29,1,2,122,8,top,0,0,1,9,44,0,0,44,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/14/2022,30,1,1,122,8,top,0,0,1,8,110,25,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/26/2022,31,1,2,122,8,middle,0,0,1,7,53,53,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/26/2022,33,1,2,122,7,bottom,0,0,1,9,52,0,2,50,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/14/2022,34,1,1,122,10,bottom,0,1,0,9,53,43,1,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/26/2022,35,1,2,122,10,middle,0,1,0,10,61,0,0,61,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/26/2022,37,1,2,122,11,top,0,1,0,9,46,0,0,45,1,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/26/2022,38,1,2,122,11,top,0,1,0,10,31,31,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/26/2022,39,1,2,122,11,top,0,1,0,8,48,48,0,0,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/26/2022,40,1,2,122,11,middle,0,1,0,8,85,84,0,0,1,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/26/2022,41,1,2,122,12,bottom,0,1,0,9,26,12,0,14,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/26/2022,42,1,2,122,11,bottom,0,1,0,11,64,0,0,64,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+7/14/2022,43,1,1,124,12,bottom,0,1,0,9,5,0,0,0,0,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,11,0.001244346,0.124434578,860,212,0.246511628
+8/3/2022,44,1,3,124,12,bottom,0,1,0,9,391,32,0,357,2,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,11,0.001244346,0.124434578,860,212,0.246511628
+7/26/2022,46,1,2,124,9,middle,0,0,1,10,63,30,0,33,2,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,11,0.001244346,0.124434578,860,212,0.246511628
+7/26/2022,47,1,2,124,9,middle,0,0,1,10,44,38,0,6,0,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,11,0.001244346,0.124434578,860,212,0.246511628
+7/26/2022,49,1,2,124,7,bottom,0,0,1,9,65,0,1,65,0,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,11,0.001244346,0.124434578,860,212,0.246511628
+7/26/2022,52,1,2,124,6,bottom,0,0,1,10,34,0,2,32,0,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,11,0.001244346,0.124434578,860,212,0.246511628
+7/14/2022,53,1,1,124,4,bottom,0,0,1,9,12,12,0,0,0,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,11,0.001244346,0.124434578,860,212,0.246511628
+7/14/2022,54,1,1,124,4,bottom,0,0,1,9,71,31,0,0,0,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,11,0.001244346,0.124434578,860,212,0.246511628
+7/14/2022,55,1,1,124,3,top,0,1,0,9,55,0,0,0,0,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,11,0.001244346,0.124434578,860,212,0.246511628
+7/26/2022,56,1,2,124,2,bottom,0,1,0,10,70,69,0,0,1,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,11,0.001244346,0.124434578,860,212,0.246511628
+7/26/2022,58,1,2,322,2,middle,0,1,0,10,45,0,0,45,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,15,0.001672243,0.167224335,746,144,0.193029491
+7/26/2022,59,1,2,322,3,middle,0,1,0,10,63,0,2,60,1,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,15,0.001672243,0.167224335,746,144,0.193029491
+7/26/2022,61,1,2,322,3,top,0,1,0,12,63,0,0,63,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,15,0.001672243,0.167224335,746,144,0.193029491
+7/26/2022,62,1,2,322,5,bottom,0,0,1,9,69,66,3,0,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,15,0.001672243,0.167224335,746,144,0.193029491
+7/26/2022,63,1,2,322,5,middle,0,0,1,9,63,0,0,63,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,15,0.001672243,0.167224335,746,144,0.193029491
+7/26/2022,64,1,2,322,5,middle,0,0,1,9,51,0,0,51,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,15,0.001672243,0.167224335,746,144,0.193029491
+7/26/2022,67,1,2,322,7,top,0,0,1,10,49,0,1,48,1,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,15,0.001672243,0.167224335,746,144,0.193029491
+7/26/2022,68,1,2,322,7,top,0,0,1,10,50,0,0,50,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,15,0.001672243,0.167224335,746,144,0.193029491
+7/26/2022,69,1,2,322,8,middle,0,0,1,10,14,1,0,13,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,15,0.001672243,0.167224335,746,144,0.193029491
+7/26/2022,71,1,2,322,12,top,0,1,0,8,56,41,0,15,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,15,0.001672243,0.167224335,746,144,0.193029491
+7/26/2022,72,1,2,322,12,middle,0,1,0,9,32,0,0,32,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,15,0.001672243,0.167224335,746,144,0.193029491
+7/26/2022,73,1,2,322,12,middle,0,1,0,9,29,2,1,26,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,15,0.001672243,0.167224335,746,144,0.193029491
+7/15/2022,74,1,1,322,12,middle,0,1,0,9,29,28,0,0,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,15,0.001672243,0.167224335,746,144,0.193029491
+8/3/2022,75,1,3,322,12,bottom,0,1,0,11,96,6,0,90,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,15,0.001672243,0.167224335,746,144,0.193029491
+7/26/2022,76,1,2,324,1,middle,0,1,0,10,25,3,0,22,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/26/2022,77,1,2,324,1,middle,0,1,0,10,39,0,1,38,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/26/2022,78,1,2,324,1,middle,0,1,0,9,68,0,1,67,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/26/2022,80,1,2,324,2,middle,0,1,0,8,73,0,0,70,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+8/3/2022,82,1,3,324,2,bottom,0,1,0,10,50,50,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/26/2022,83,1,2,324,2,bottom,0,1,0,9,100,5,0,95,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/26/2022,84,1,2,324,3,bottom,0,1,0,10,105,0,0,105,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+8/3/2022,85,1,3,324,3,bottom,0,1,0,8,85,0,0,85,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/26/2022,86,1,2,324,3,bottom,0,1,0,11,72,72,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/15/2022,87,1,1,324,3,top,0,1,0,8,114,0,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/26/2022,88,1,2,324,4,bottom,0,0,1,7,139,0,0,139,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/26/2022,89,1,2,324,5,bottom,0,0,1,8,77,1,1,75,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/15/2022,90,1,1,324,5,middle,0,0,1,8,73,0,0,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/26/2022,91,1,2,324,6,middle,0,0,1,9,65,2,0,63,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/26/2022,93,1,2,324,6,bottom,0,0,1,7,92,18,0,74,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/26/2022,94,1,2,324,11,middle,0,1,0,10,98,97,1,0,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/26/2022,95,1,2,324,11,middle,0,1,0,11,69,0,0,69,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/26/2022,96,1,2,324,12,middle,0,1,0,9,81,80,0,0,1,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+7/26/2022,99,1,2,323,3,top,0,1,0,10,35,0,0,35,0,1,0,0,WBCW,2,3,323,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,5,0.000565612,0.056561172,288,13,0.045138889
+8/3/2022,100,1,3,323,7,top,0,0,1,10,70,13,0,57,0,1,0,0,WBCW,2,3,323,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,5,0.000565612,0.056561172,288,13,0.045138889
+7/15/2022,102,1,1,323,7,bottom,0,0,1,10,14,0,0,0,0,1,0,0,WBCW,2,3,323,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,5,0.000565612,0.056561172,288,13,0.045138889
+7/15/2022,105,1,1,323,9,middle,0,0,1,9,92,0,0,0,0,1,0,0,WBCW,2,3,323,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,5,0.000565612,0.056561172,288,13,0.045138889
+7/26/2022,106,1,2,323,11,middle,0,1,0,9,26,0,0,26,0,1,0,0,WBCW,2,3,323,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,5,0.000565612,0.056561172,288,13,0.045138889
+7/26/2022,110,1,2,431,1,bottom,0,1,0,9,56,6,0,50,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+8/3/2022,112,1,3,431,1,bottom,0,1,0,9,38,38,0,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/26/2022,114,1,2,431,3,bottom,0,1,0,9,18,0,0,18,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/19/2022,115,1,1,431,3,bottom,0,1,0,10,54,0,0,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/26/2022,116,1,2,431,3,middle,0,1,0,12,111,0,0,111,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/19/2022,117,1,1,431,4,top,0,0,1,11,48,10,0,0,4,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/26/2022,118,1,2,431,6,middle,0,0,1,10,118,0,0,118,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/19/2022,119,1,1,431,5,middle,0,0,1,9,45,45,0,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/26/2022,120,1,2,431,6,middle,0,0,1,12,31,0,0,31,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/26/2022,122,1,2,431,8,middle,0,0,1,10,26,0,0,26,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/26/2022,123,1,2,431,9,top,0,0,1,11,33,4,0,24,5,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/26/2022,124,1,2,431,10,top,0,1,0,12,92,0,0,90,2,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/26/2022,125,1,2,431,10,top,0,1,0,12,44,5,0,36,3,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/26/2022,127,1,2,431,10,middle,0,1,0,8,12,8,0,3,1,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/26/2022,128,1,2,431,10,middle,0,1,0,10,35,0,0,33,2,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/26/2022,129,1,2,431,11,bottom,0,1,0,8,37,0,0,37,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/26/2022,130,1,2,431,11,bottom,0,1,0,10,39,1,0,38,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/19/2022,132,1,1,431,12,middle,0,1,0,10,78,0,13,0,2,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/26/2022,135,1,2,431,12,top,0,1,0,11,146,0,6,140,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/19/2022,136,1,1,431,12,top,0,1,0,10,8,0,0,0,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/26/2022,137,1,2,431,11,top,0,1,0,10,49,0,0,49,0,1,0,0,WBCW,2,4,431,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,65,65000,160618.356,8449.987151,21,0.002485211,0.248521088,1118,117,0.104651163
+7/26/2022,138,1,2,433,1,middle,0,1,0,8,24,0,0,24,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/26/2022,139,1,2,433,2,middle,0,1,0,9,58,0,0,58,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/26/2022,141,1,2,433,2,middle,0,1,0,8,30,0,0,30,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/26/2022,143,1,2,433,2,middle,0,1,0,9,31,0,0,31,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/26/2022,144,1,2,433,2,bottom,0,1,0,10,83,0,0,83,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/26/2022,146,1,2,433,1,bottom,0,1,0,10,35,34,0,0,1,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/26/2022,147,1,2,433,3,bottom,0,1,0,10,31,0,0,31,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+8/3/2022,148,1,3,433,4,middle,0,0,1,9,20,0,0,20,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+8/3/2022,149,1,3,433,4,middle,0,0,1,9,43,8,0,34,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/26/2022,150,1,2,433,3,top,0,1,0,10,78,10,0,68,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+8/3/2022,151,1,3,433,3,top,0,1,0,8,101,20,0,81,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/19/2022,152,1,1,433,5,top,0,0,1,8,18,0,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/26/2022,154,1,2,433,5,top,0,0,1,7,41,0,0,41,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/26/2022,155,1,2,433,5,top,0,0,1,5,55,0,0,48,7,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/26/2022,157,1,2,433,6,middle,0,0,1,8,53,0,0,53,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/26/2022,158,1,2,433,5,middle,0,0,1,8,134,0,0,134,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/26/2022,163,1,2,433,7,top,0,0,1,11,42,0,0,42,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/26/2022,164,1,2,433,9,top,0,0,1,7,120,0,0,120,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/26/2022,165,1,2,433,10,top,0,1,0,9,83,1,2,80,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+8/3/2022,166,1,3,433,9,top,0,0,1,11,44,11,0,33,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/19/2022,168,1,1,433,9,middle,0,0,1,7,52,52,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+8/3/2022,169,1,3,433,9,middle,0,0,1,9,52,8,0,46,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/19/2022,170,1,1,433,9,middle,0,0,1,9,59,0,0,59,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/19/2022,171,1,1,433,10,middle,0,1,0,7,33,33,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/27/2022,172,1,2,433,10,middle,0,1,0,8,49,15,0,34,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/19/2022,173,1,1,433,11,bottom,0,1,0,7,27,12,0,0,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/19/2022,174,1,1,433,12,top,0,1,0,9,81,0,0,81,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+8/3/2022,175,1,3,433,12,top,0,1,0,10,76,20,0,56,0,1,0,0,WBCW,2,4,433,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,28,0.003263408,0.326340823,1553,224,0.144236961
+7/27/2022,177,1,2,432,2,middle,0,1,0,11,70,3,0,67,0,1,0,0,WBCW,2,4,432,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,66,66000,163089.4076,8579.986953,7,0.000815852,0.081585206,401,35,0.087281796
+7/27/2022,178,1,2,432,2,middle,0,1,0,10,43,2,0,41,0,1,0,0,WBCW,2,4,432,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,66,66000,163089.4076,8579.986953,7,0.000815852,0.081585206,401,35,0.087281796
+8/3/2022,179,1,3,432,2,top,0,1,0,10,56,26,0,30,0,1,0,0,WBCW,2,4,432,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,66,66000,163089.4076,8579.986953,7,0.000815852,0.081585206,401,35,0.087281796
+7/27/2022,182,1,2,432,3,top,0,1,0,11,42,0,0,42,0,1,0,0,WBCW,2,4,432,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,66,66000,163089.4076,8579.986953,7,0.000815852,0.081585206,401,35,0.087281796
+7/27/2022,183,1,2,432,3,middle,0,1,0,9,52,1,0,51,0,1,0,0,WBCW,2,4,432,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,66,66000,163089.4076,8579.986953,7,0.000815852,0.081585206,401,35,0.087281796
+7/27/2022,184,1,2,432,5,middle,0,0,1,9,86,0,2,86,0,1,0,0,WBCW,2,4,432,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,66,66000,163089.4076,8579.986953,7,0.000815852,0.081585206,401,35,0.087281796
+7/27/2022,191,1,2,432,11,bottom,0,1,0,7,52,3,1,49,0,1,0,0,WBCW,2,4,432,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,66,66000,163089.4076,8579.986953,7,0.000815852,0.081585206,401,35,0.087281796
+7/27/2022,192,1,2,221,1,middle,0,1,0,11,80,2,0,78,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,194,1,2,221,1,middle,0,1,0,7,51,0,0,51,0,0,1,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/20/2022,195,1,1,221,1,bottom,0,1,0,10,70,0,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/20/2022,196,1,1,221,1,bottom,0,1,0,9,140,0,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,197,1,2,221,1,bottom,0,1,0,11,51,0,1,50,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,198,1,2,221,1,bottom,0,1,0,10,113,0,0,113,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,199,1,2,221,2,bottom,0,1,0,8,109,18,0,90,1,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+8/3/2022,201,1,3,221,4,bottom,0,0,1,11,96,0,0,87,9,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,202,1,2,221,4,middle,0,0,1,12,52,0,0,52,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/20/2022,203,1,1,221,4,middle,0,0,1,10,70,25,0,0,6,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,205,1,2,221,5,top,0,0,1,9,27,24,0,3,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,206,1,2,221,5,middle,0,0,1,12,38,0,0,38,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,208,1,2,221,5,middle,0,0,1,7,94,94,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+8/3/2022,210,1,3,221,5,bottom,0,0,1,11,5,0,0,1,4,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,211,1,2,221,5,bottom,0,0,1,9,44,7,0,37,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,212,1,2,221,5,bottom,0,0,1,9,38,0,1,38,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,213,1,2,221,5,bottom,0,0,1,9,65,0,0,64,1,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/20/2022,214,1,1,221,6,top,0,0,1,11,21,11,0,0,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,215,1,2,221,9,top,0,0,1,10,113,0,0,113,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,216,1,2,221,9,middle,0,0,1,9,67,1,0,66,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,217,1,2,221,9,middle,0,0,1,9,101,0,0,100,1,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,218,1,2,221,9,middle,0,0,1,10,46,12,1,33,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,219,1,2,221,11,bottom,0,1,0,11,84,0,0,84,0,1,0,0,WBCW,2,2,221,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,65,65000,160618.356,8449.987151,23,0.002721898,0.272189763,1575,194,0.123174603
+7/27/2022,221,1,2,222,12,middle,0,1,0,11,19,1,0,18,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,224,1,2,222,1,top,0,1,0,11,55,2,0,51,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/20/2022,225,1,1,222,2,middle,0,1,0,10,47,47,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+8/3/2022,226,1,3,222,2,bottom,0,1,0,10,38,24,0,14,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,227,1,2,222,3,middle,0,1,0,9,50,0,0,50,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+8/3/2022,228,1,3,222,3,top,0,1,0,9,90,19,0,71,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,229,1,2,222,4,middle,0,0,1,10,61,0,1,61,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,232,1,2,222,5,bottom,0,0,1,10,28,12,2,14,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,233,1,2,222,5,bottom,0,0,1,12,33,18,2,13,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,234,1,2,222,5,bottom,0,0,1,9,110,25,0,79,6,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,235,1,2,222,5,bottom,0,0,1,9,111,37,0,74,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/20/2022,236,1,1,222,5,bottom,0,0,1,11,20,3,2,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/20/2022,237,1,1,222,5,middle,0,0,1,9,24,0,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/20/2022,238,1,1,222,5,middle,0,0,1,8,41,41,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,239,1,2,222,6,middle,0,0,1,9,37,0,0,37,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,240,1,2,222,6,middle,0,0,1,9,97,0,0,97,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+8/3/2022,241,1,3,222,6,middle,0,0,1,11,66,0,0,65,1,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,242,1,2,222,6,middle,0,0,1,11,15,6,0,9,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+8/3/2022,243,1,3,222,7,bottom,0,0,1,9,52,24,0,38,1,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,245,1,2,222,7,bottom,0,0,1,9,28,0,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+8/3/2022,246,1,3,222,7,bottom,0,0,1,12,35,0,1,34,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,247,1,2,222,7,middle,0,0,1,10,88,0,3,85,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+8/3/2022,248,1,3,222,7,middle,0,0,1,11,47,30,0,17,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+8/3/2022,251,1,3,222,8,middle,0,0,1,10,31,2,2,27,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,252,1,2,222,8,middle,0,0,1,8,53,53,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,253,1,2,222,8,bottom,0,0,1,8,11,5,0,6,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+8/3/2022,254,1,3,222,8,bottom,0,0,1,8,57,19,0,38,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/20/2022,257,1,1,222,10,middle,0,1,0,9,6,0,0,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/20/2022,258,1,1,222,10,middle,0,1,0,9,60,59,1,0,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,259,1,2,222,10,bottom,0,1,0,12,35,16,1,18,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,261,1,2,222,10,bottom,0,1,0,10,49,0,2,39,8,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,262,1,2,222,10,bottom,0,1,0,10,54,17,0,37,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,263,1,2,222,11,middle,0,1,0,11,121,0,3,117,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/27/2022,264,1,2,222,11,top,0,1,0,8,32,0,0,32,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
+7/20/2022,265,1,1,224,1,bottom,0,1,0,10,26,26,0,0,0,1,0,0,WBCW,2,2,224,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,67,67000,165560.4592,8709.986755,10,0.001148107,0.114810737,601,123,0.204658902
+7/20/2022,267,1,1,224,1,top,0,1,0,9,39,0,0,39,0,1,0,0,WBCW,2,2,224,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,67,67000,165560.4592,8709.986755,10,0.001148107,0.114810737,601,123,0.204658902
+7/20/2022,268,1,1,224,1,top,0,1,0,8,74,74,0,0,0,1,0,0,WBCW,2,2,224,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,67,67000,165560.4592,8709.986755,10,0.001148107,0.114810737,601,123,0.204658902
+7/27/2022,269,1,2,224,2,top,0,1,0,11,59,0,0,59,0,1,0,0,WBCW,2,2,224,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,67,67000,165560.4592,8709.986755,10,0.001148107,0.114810737,601,123,0.204658902
+7/27/2022,270,1,2,224,2,top,0,1,0,10,46,0,0,46,0,1,0,0,WBCW,2,2,224,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,67,67000,165560.4592,8709.986755,10,0.001148107,0.114810737,601,123,0.204658902
+7/20/2022,271,1,1,224,3,middle,0,1,0,10,45,0,0,45,0,1,0,0,WBCW,2,2,224,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,67,67000,165560.4592,8709.986755,10,0.001148107,0.114810737,601,123,0.204658902
+8/3/2022,272,1,3,224,3,middle,0,1,0,9,104,18,0,85,1,1,0,0,WBCW,2,2,224,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,67,67000,165560.4592,8709.986755,10,0.001148107,0.114810737,601,123,0.204658902
+7/20/2022,273,1,1,224,4,bottom,0,0,1,10,22,0,0,0,0,1,0,0,WBCW,2,2,224,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,67,67000,165560.4592,8709.986755,10,0.001148107,0.114810737,601,123,0.204658902
+7/20/2022,274,1,1,224,6,middle,0,0,1,11,38,0,0,0,0,1,0,0,WBCW,2,2,224,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,67,67000,165560.4592,8709.986755,10,0.001148107,0.114810737,601,123,0.204658902
+7/20/2022,278,1,1,224,8,middle,0,0,1,8,148,5,0,0,0,1,0,0,WBCW,2,2,224,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,67,67000,165560.4592,8709.986755,10,0.001148107,0.114810737,601,123,0.204658902
+7/27/2022,280,1,2,122,9,middle,0,0,1,10,60,24,0,36,0,1,0,0,WBCW,2,1,122,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,0,0,1,66,66000,163089.4076,8579.986953,21,0.002447556,0.244755617,1166,385,0.330188679
+8/3/2022,281,1,3,124,12,bottom,0,1,0,12,50,0,0,50,0,1,0,0,WBCW,2,1,124,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,68,68000,168031.5109,8839.986557,11,0.001244346,0.124434578,860,212,0.246511628
+8/3/2022,282,1,3,322,12,bottom,0,1,0,8,37,0,0,37,0,1,0,0,WBCW,2,3,322,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,15,0.001672243,0.167224335,746,144,0.193029491
+8/3/2022,284,1,3,324,3,bottom,0,1,0,23,51,4,0,47,0,1,0,0,WBCW,2,3,324,2,Red Clover/ Cereal Rye,Corn,Annual Ryegrass/ Radish/ Crimson Clover,Standard,9,2,2,66,66000,163089.4076,8579.986953,19,0.002214456,0.221445558,1476,332,0.224932249
+8/3/2022,285,1,3,323,6,top,0,0,1,9,51,0,2,49,0,1,0,0,WBCW,2,3,323,1,Oat/Rea/Radish,Corn,Cereal Rye,Shallow,9,1,2,68,68000,168031.5109,8839.986557,6,0.000678734,0.067873406,288,13,0.045138889
+8/3/2022,292,1,3,222,5,bottom,0,0,1,12,90,17,0,73,0,1,0,0,WBCW,2,2,222,3,Red Clover/ Cereal Rye,Corn,Cereal Rye,Reduced,9,2,2,69,69000,170502.5625,8969.98636,35,0.003901901,0.390190114,1759,477,0.271176805
